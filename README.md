@@ -20,7 +20,7 @@ Meu nome é Pablo Vinícius, venho estudando analise de dados, Ciencia de Dados 
 **Análise de Dados:** Power BI
 ## Aprendizados
 
-A ideia do projeto é ter o primeiro contato com o Power BI, para isso foi criado um Dashbord onderesponde as perguntas levantadas anteriormente, e foi criado também filtros para melhorar a análise dos usuarios, o dashboard é interativo e todo clicavél.
+A ideia do projeto é proporcionar o primeiro contato com o Power BI. Para isso, foi criado um dashboard que responde às perguntas levantadas anteriormente. Também foram incluídos filtros para melhorar a análise dos usuários. O dashboard é interativo e totalmente clicável, além de haver uma versão mobile.
 
 ## Imagens do Dashboard
 
