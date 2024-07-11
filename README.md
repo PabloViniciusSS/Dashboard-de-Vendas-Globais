@@ -31,6 +31,7 @@ O objetivo deste projeto é proporcionar o primeiro contato com o Power BI. Para
 ![Imagem](https://github.com/PabloViniciusSS/Dashboard-de-Vendas-Globais/assets/48532322/0c59620e-615c-43b3-80c0-bda2ec51c875)
 
 - Dashboard Versão Mobile
+  
 ![Imagem_mobile](https://github.com/PabloViniciusSS/Dashboard-de-Vendas-Globais/assets/48532322/3d954fd1-97a6-4ee8-97d4-75d04183367d)
 
 ## Licença
